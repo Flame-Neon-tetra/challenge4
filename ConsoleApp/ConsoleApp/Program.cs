@@ -17,6 +17,11 @@ namespace ConsoleApp
             nume =  nume + 100 / 2 * 3;
 
             Console.WriteLine(nume);
+
+            nume = nume / 10 + 4;
+
+            Console.WriteLine(nume);
+
         }
     }
 }
