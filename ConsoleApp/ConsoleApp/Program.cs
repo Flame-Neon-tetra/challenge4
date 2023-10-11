@@ -17,6 +17,8 @@ namespace ConsoleApp
             nume =  nume + 100 / 2 * 3;
 
             Console.WriteLine(nume);
+
+            Console.WriteLine("my age is " + nume);
         }
     }
 }
