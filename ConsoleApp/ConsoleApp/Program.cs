@@ -20,8 +20,9 @@ namespace ConsoleApp
 
             nume = nume / 10 + 4;
 
-            Console.WriteLine(nume);
 
+
+            Console.WriteLine("my age is " + nume);
         }
     }
 }
